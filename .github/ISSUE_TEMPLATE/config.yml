@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Make a suggestion
+    url: https://github.com/mauna.ai/roadmap/discussions/
+    about: Have an idea for mauna.ai? Open a discussion on our feedback repo!
+  - name: mauna.ai docs
+    url: https://docs.mauna.ai/
+    about: Need help with using mauna? Check out our docs!
+  - name: mauna APIs status page
+    url: https://status.mauna.cloud/
+    about: Check the status of mauna services on our status page.
